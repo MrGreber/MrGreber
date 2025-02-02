@@ -11,4 +11,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `I made it the fuck up`
 
 ## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=c,java,py,js,bash,linux,raspberrypi,neovim,visualstudio,vscode,pycharm,idea&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,java,py,js,bash,linux&theme=dark)](https://skillicons.dev)
