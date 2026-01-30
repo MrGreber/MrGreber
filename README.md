@@ -3,9 +3,9 @@
 💬 **Me**: Trying to figure the world while doing `Meth` `CS` and `CS`.
 
 🛠️ **Projects**:
-- **`Anet`**<br>
-\\___[ AI Library<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `Cuda`
+- **`CUI`**<br>
+\\___[ UI Library<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `OpenGL`
 
 ⭐ **Certifications**: `MIC - My Imaginary Certificate`<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `I made it the fuck up`
